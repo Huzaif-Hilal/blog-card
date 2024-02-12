@@ -10,11 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -33,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Huzaif-Hilal/blog-card
-- Live Site URL: 
+- Live Site URL: https://blog-card-by-huzaif.netlify.app/
 
 ## My process
 
